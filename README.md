@@ -1,15 +1,4 @@
 <h1 align="center">Hi 👋, I'm Aman Sharma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-- 🔭 I’m currently working on **mastering Web development**
-
-- 🌱 I’m currently learning **Next.js**
-
-- 👯 I’m looking to collaborate on **Frontend Web development**
-
-- 🤝 I’m looking for help with **developing a website**
-
-- 👨‍💻 All of my projects are available at [https://portfolio-seven-lovat-68.vercel.app/](https://portfolio-seven-lovat-68.vercel.app/)
 
 - 📫 How to reach me **Aman.sharma23432@gmail.com**
 
